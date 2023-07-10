@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2023-07-06T01:57:40.084Z</updated>
+  <updated>2023-07-10T02:00:12.374Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://example.com/posts/41acf799.html"/>
     <id>http://example.com/posts/41acf799.html</id>
     <published>2023-07-06T00:27:35.000Z</published>
-    <updated>2023-07-06T01:57:40.084Z</updated>
+    <updated>2023-07-10T02:00:12.374Z</updated>
     
     <content type="html"><![CDATA[<p>记录一下，开始创这个个人博客的原因是在看一个小说时，在评论区偶然看到一个分享链接，点进去一看感觉页面非常个性化，以为是什么网页感觉很有意思也想去看看，结果并没有找到，纯粹就是输入一串网址然后这个界面就出来了，就想着自己能不能也创个这样的页面，然后就在b站，浏览器上面搜索教程，教程有很多。</p><p>然后我就跟着教程一步一步走，中间自然出现了很多错误，什么语法之类的，反正有时缺少一个符号，缺少一个空格，就会导致最后运转出错，但这反而激起了我的兴趣，我开始搜索更多的教程，关于主题的美化之类的。</p><p>其实到现在仍然有很多问题，导致有的东西加载不出来，毕竟关于这些方面的东西，我就是个纯纯的小白，一直以来都是靠着教程上的复制和粘贴，所以特别感谢那些出这些教程的人。</p><p>然后就说到关于这个个人博客的应用，我应该以后会在上面写一些东西的吧。（<em>这是我的一次发，好紧张啊</em>）</p><p>会找机会研究研究<a href="https://markdown.com.cn/basic-syntax/links.html" title="学习">怎么写的</a></p>]]></content>
     
@@ -43,7 +43,7 @@
     <link href="http://example.com/posts/4a17b156.html"/>
     <id>http://example.com/posts/4a17b156.html</id>
     <published>2023-07-04T06:14:30.166Z</published>
-    <updated>2023-07-06T01:49:17.943Z</updated>
+    <updated>2023-07-10T02:08:29.805Z</updated>
     
     <content type="html"><![CDATA[<p>（<em>这是刚创博客时自带的，不想删哈哈</em>）</p><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><pre><code class="lang-bash">$ hexo new &quot;My New Post&quot;</code></pre><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><pre><code class="lang-bash">$ hexo server</code></pre><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><pre><code class="lang-bash">$ hexo generate</code></pre><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><pre><code class="lang-bash">$ hexo deploy</code></pre><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
     
