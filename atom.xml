@@ -3,11 +3,11 @@
   <title>杂物间🍭</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://ciallo-zrting.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://ciallo-zrting.github.io/"/>
   <updated>2023-07-10T02:00:12.374Z</updated>
-  <id>http://example.com/</id>
+  <id>https://ciallo-zrting.github.io/</id>
   
   <author>
     <name>沫婷ZaRetin🥝</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>随想</title>
-    <link href="http://example.com/posts/41acf799.html"/>
-    <id>http://example.com/posts/41acf799.html</id>
+    <link href="https://ciallo-zrting.github.io/posts/41acf799.html"/>
+    <id>https://ciallo-zrting.github.io/posts/41acf799.html</id>
     <published>2023-07-06T00:27:35.000Z</published>
     <updated>2023-07-10T02:00:12.374Z</updated>
     
@@ -34,14 +34,14 @@
     
     
     
-    <category term="随想" scheme="http://example.com/tags/%E9%9A%8F%E6%83%B3/"/>
+    <category term="随想" scheme="https://ciallo-zrting.github.io/tags/%E9%9A%8F%E6%83%B3/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://ciallo-zrting.github.io/posts/4a17b156.html"/>
+    <id>https://ciallo-zrting.github.io/posts/4a17b156.html</id>
     <published>2023-07-04T06:14:30.166Z</published>
     <updated>2023-07-10T02:08:29.805Z</updated>
     
