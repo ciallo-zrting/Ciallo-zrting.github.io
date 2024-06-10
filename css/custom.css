@@ -284,15 +284,6 @@ div#archive {
   border-radius: 20px;
 }
 
-/* 导航栏 */
-#page-header.nav-fixed #nav {
-  background: rgba(255, 255, 255, 0.75);
-  backdrop-filter: var(--backdrop-filter);
-}
-
-[data-theme="dark"] #page-header.nav-fixed #nav {
-  background: rgba(0, 0, 0, 0.7) !important;
-}
 
 /* 夜间模式遮罩 */
 [data-theme="dark"] #recent-posts > .recent-post-item,
@@ -301,6 +292,16 @@ div#archive {
 [data-theme="dark"] div#archive,
 [data-theme="dark"] div#page {
   background: var(--trans-dark);
+}
+
+/* 导航栏 */
+#page-header.nav-fixed #nav {
+  background: rgba(255, 255, 255, 0.75);
+  backdrop-filter: var(--backdrop-filter);
+}
+
+[data-theme="dark"] #page-header.nav-fixed #nav {
+  background: rgba(0, 0, 0, 0.7) !important;
 }
 
 
